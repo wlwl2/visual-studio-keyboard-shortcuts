@@ -1,0 +1,23 @@
+{
+  "name": "visual-studio-keyboard-shortcuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlwl2/visual-studio-keyboard-shortcuts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlwl2/visual-studio-keyboard-shortcuts/issues"
+  },
+  "homepage": "https://github.com/wlwl2/visual-studio-keyboard-shortcuts#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "xml2js": "^0.4.17"
+  }
+}
